@@ -10,8 +10,8 @@ witnesses behind Figure 3 and the same-group exchanges. With the raw data, the s
 release, budget, audit, certificate, and count of RQ1, RQ2 and Practicality, verify every witness, and
 evaluate every decision in exact rational arithmetic, with outward rounding on floating-point releases.
 
-The supplementary material of the submission, with the complete proofs and further results, is
-[`supplementary_material.pdf`](supplementary_material.pdf) in this repository.
+The extended version of the paper, including the complete proofs and further results, is
+[`extended_version.pdf`](extended_version.pdf) in this repository.
 
 ## Requirements
 
