@@ -160,7 +160,6 @@ Heavy items, not needed for the tables above:
 @misc{wang2026release,
   title  = {Release Determinacy for Hyperedge-Level Fairness Certification in Attributed Hypergraph Clustering},
   author = {Wang, Xuemin and Hao, Yuanjing and Chang, Liang},
-  note   = {Submitted to Proceedings of the VLDB Endowment, Vol. 20},
   year   = {2026}
 }
 ```
