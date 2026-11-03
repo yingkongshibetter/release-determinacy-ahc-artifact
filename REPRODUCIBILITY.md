@@ -1,6 +1,6 @@
 # Release Determinacy for Hyperedge-Level Fairness Certification in Attributed Hypergraph Clustering
 
-This repository holds the code and data of the PVLDB paper *Release Determinacy for Hyperedge-Level Fairness Certification
+This repository holds the code and data of the paper *Release Determinacy for Hyperedge-Level Fairness Certification
 in Attributed Hypergraph Clustering* (Xuemin Wang, Yuanjing Hao, Liang Chang). It audits partitions of
 attributed hypergraphs with hyperedge group preservation (HGP), the membership-weighted within-hyperedge
 segregation of groups across clusters. It decides which releases (pairwise graphs, the random-walk release,

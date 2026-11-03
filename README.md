@@ -1,6 +1,6 @@
 # Release Determinacy for Hyperedge-Level Fairness Certification in Attributed Hypergraph Clustering
 
-This repository provides the implementation of the paper **“Release Determinacy for Hyperedge-Level Fairness Certification in Attributed Hypergraph Clustering”** by Xuemin Wang, Yuanjing Hao, and Liang Chang, submitted to PVLDB Vol. 20.
+This repository provides the implementation of the paper **“Release Determinacy for Hyperedge-Level Fairness Certification in Attributed Hypergraph Clustering”** by Xuemin Wang, Yuanjing Hao, and Liang Chang.
 
 The supplementary material, with the complete proofs and further results, is in [supplementary_material.pdf](supplementary_material.pdf).
 
@@ -11,8 +11,8 @@ The repository includes the 30 audited partitions, processed OpenAlex hypergraph
 Click **Code → Download ZIP** above to download the complete source code and bundled data, or clone this repository:
 
 ```bash
-git clone https://github.com/yingkongshibetter/release-determinacy-ahc-pvldb20.git
-cd release-determinacy-ahc-pvldb20
+git clone https://github.com/yingkongshibetter/release-determinacy-ahc-artifact.git
+cd release-determinacy-ahc-artifact
 ```
 
 Run the following commands from the repository directory.
